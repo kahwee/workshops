@@ -1,0 +1,18 @@
+{
+  "name": "sample",
+  "version": "0.0.0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "start": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "~2.5.1"
+  },
+  "devDependencies": {
+    "lodash": "~2.4.1"
+  }
+}
